@@ -1,0 +1,4 @@
+.postAuthor {
+  display: flex;
+  flex-direction: column;
+}
